@@ -5988,7 +5988,6 @@ CONFIG_SENSORS_ET7XX=y
 #
 # samsung Performace manager
 #
-CONFIG_KPERFMON=y
 CONFIG_SPU_VERIFY=y
 
 #
